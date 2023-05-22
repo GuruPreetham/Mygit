@@ -1,0 +1,1 @@
+print("guru preetham is a good boy")
